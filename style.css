@@ -1,0 +1,39 @@
+#heading {
+    background-color: grey;
+}
+
+.data {
+    background-color: lightgray;
+}
+
+table {
+    background-color: black;
+}
+
+th {
+    width: 50px;
+}
+
+#team {
+    width: 200px;
+}
+
+.ucl {
+    background-color: greenyellow;
+}
+
+.uel {
+    background-color: skyblue;
+}
+
+.uecl {
+    background-color: chocolate;
+}
+
+.relegation {
+    background-color: red;
+}
+
+body {
+    margin: 30px;
+}
